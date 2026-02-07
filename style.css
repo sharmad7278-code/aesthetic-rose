@@ -72,3 +72,9 @@ button {
     opacity: 1;
     transform: translateY(0);
   }
+.name { GOLU
+  display: block;
+  margin-top: 10px;
+  font-style: italic;
+  opacity: 0.9;
+}
